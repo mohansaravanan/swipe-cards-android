@@ -1,0 +1,15 @@
+{
+    "weather": 34,
+    "daysToGo": 182,
+    "cards": [
+        {
+            "card": "slide_1"
+        },
+        {
+            "card": "slide_2"
+        },
+        {
+            "card": "slide_3"
+        }
+    ]
+}

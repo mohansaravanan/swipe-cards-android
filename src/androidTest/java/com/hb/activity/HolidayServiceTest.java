@@ -3,6 +3,10 @@ package com.hb.activity;
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;
 
+import com.hb.model.Holiday;
+import com.hb.service.HolidayService;
+
+
 @LargeTest
 public class HolidayServiceTest extends ActivityInstrumentationTestCase2<HBActivity> {
 
@@ -38,4 +42,5 @@ public class HolidayServiceTest extends ActivityInstrumentationTestCase2<HBActiv
         assertEquals(SLIDE_2, holidayDetails.getCards().get(1));
         assertEquals(SLIDE_3, holidayDetails.getCards().get(2));
     }
+
 }

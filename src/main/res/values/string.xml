@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Holiday Booking</string>
+    <string name="of">of</string>
+    <string name="city_now">Greece now</string>
+    <string name="days_to_go">Days to go</string>
+</resources>
